@@ -12,4 +12,11 @@ Temos as opções:
 1- Para fazer um saque
 2- Para fazer um depósito
 3- Para ver o extrato
+4- Nova Usuário
+5- Nova Conta
+6- Listar Contas existentes
 0- Para sair
+
+Notas: 
+- Cada Usuário é único por causa de seu cpf, porém cada usuário pode ter várias contas.
+- Só é possível criar uma conta caso já tenha criado o usuário criado.
