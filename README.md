@@ -1,6 +1,6 @@
 # Sistema-Bancario-Python
 
-Um Sistema bancário simples com as funcionalidades básicas: saque, depósito e extrato, criação de usuários e contas para os mesmos. 
+Um Sistema bancário em python com as funcionalidades básicas: saque, depósito e extrato, criação de usuários e contas para os mesmos. 
 
 ## Funcionalidades
 
